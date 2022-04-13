@@ -1,6 +1,8 @@
 # Device-Drivers
 Contains lab exercises done as part of device drivers course
 
+> Check PDFs
+
 ---------------------------------------------------------------------------------------------
 
 Lab Exercise 1 - Write a shell script to print the "day" for given "date" along with your Roll Number and Name. For example, if "31-Jan-2022" is given as input on screen, then you program should print "Happy Monday - CED22C027 Amitab Dharmendra"
@@ -18,3 +20,6 @@ Lab Exercise 6 - Write a simple Char Device Driver Program in C language. Compil
 Lab Exercise 7 - Write a C program which contains ioctl() and execute.
 
 Lab Exercise 8 - Write a C program to get a segment fault error.
+
+
+---------------------------------------------------------------------------------------------
